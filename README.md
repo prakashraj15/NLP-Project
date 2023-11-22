@@ -1,4 +1,4 @@
-# NLP-Project
+# Machine Learning-Project
 create a python virtual environment before pulling the git.
 (venv) pip install Flask torch torchvision nltk
 ```
